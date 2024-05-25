@@ -31,6 +31,6 @@ Open the project in Android Studio and run it on an Android device or emulator.
 This project is licensed under the [GNU General Public License v3.0](LICENSE).
 
 #### Author:
-- Your Name ([Your GitHub Profile](https://github.com/Devil-Code))
+- Pritesh Gandhi ([Your GitHub Profile](https://github.com/Devil-Code))
 
 Feel free to contribute by submitting bug reports, feature requests, or pull requests!
