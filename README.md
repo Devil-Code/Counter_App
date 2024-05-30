@@ -33,4 +33,11 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE).
 #### Author:
 - Pritesh Gandhi ([Your GitHub Profile](https://github.com/Devil-Code))
 
+#### Contact Information
+
+For any inquiries or issues, please contact:
+- **Pritesh Gandhi**
+- **Email**: pgandhi1412@gmail.com
+- **GitHub**: [YourGitHubProfile](https://github.com/Devil-Code)
+
 Feel free to contribute by submitting bug reports, feature requests, or pull requests!
